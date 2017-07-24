@@ -1,2 +1,2 @@
 # Scripts
-Not a developer, just problem solver...
+Some scripts that I used in the past to solve easy CTF tasks.
