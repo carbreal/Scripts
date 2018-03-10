@@ -1,2 +1,2 @@
 # Scripts
-Some scripts that I used in the past to solve easy CTF tasks.
+Some scripts I've used in the past to solve easy CTF tasks.
