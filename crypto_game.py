@@ -7,7 +7,7 @@ import sys
 ####ENCRIPTION
 rng=random.randint(1000,9999)
 random.seed(rng)
-#flag="brendel{$0y0ul1k3crypt0?}"
+#flag="flag{$0y0ul1k3crypt0?}"
 flag=sys.argv[1]
 enc=""
 for i in flag:
